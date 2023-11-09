@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="asil">
+    <file>sarsilmaz-yeni.jpg</file>
+    <file>1920-1080p-v1-yazi.png</file>
+    <file>1920-1080p-v1-yazi.png</file>
+  </qresource>
+  <qresource prefix="forGui_orgi">
+    <file>aindicatorgui.png</file>
+    <file>sarsılmalogogogo.jpeg</file>
+  </qresource>
+  <qresource prefix="logo">
+    <file>siyah logo.png</file>
+    <file>1920-1080p-v1.png</file>
+  </qresource>
+  <qresource prefix="seconf">
+    <file>siyah 3.png</file>
+  </qresource>
+</RCC>
